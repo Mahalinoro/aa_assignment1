@@ -1,4 +1,4 @@
-from main import sockMerchant
+from sockMerchant import sockMerchant
 import unittest
 
 class Test(unittest.TestCase):
